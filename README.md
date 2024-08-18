@@ -61,12 +61,6 @@ Please fill this form if you are interested : [https://forms.gle/qz2YZ3xQFQ77bGh
 
 The Webinar will be this Wednesday at 1pm GMT.
 
-## Our Sponsors
-
-  <a href="https://m.do.co/c/4ead8370b905?ref=idurarapp.com">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/PoweredByDO/DO_Powered_by_Badge_blue.svg" width="201px">
-  </a>
-
 ## Free Open Source ERP / CRM App
 
 IDURAR is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
